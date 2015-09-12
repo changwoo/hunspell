@@ -63,6 +63,7 @@ enum {
   LANG_hr = 78,
   LANG_hu = 36,
   LANG_it = 39,
+  LANG_ko = 82,
   LANG_la = 99,   // custom number
   LANG_lv = 101,  // custom number
   LANG_nl = 31,

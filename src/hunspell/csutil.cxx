@@ -2599,7 +2599,7 @@ static struct lang_map lang2enc[] =
      {"eu", LANG_eu},    {"gl", LANG_gl},
      {"fr", LANG_fr},    {"hr", LANG_hr},
      {"hu", LANG_hu},    {"hu_HU", LANG_hu},  // for back-compatibility
-     {"it", LANG_it},    {"la", LANG_la},
+     {"it", LANG_it},    {"ko", LANG_ko},    {"la", LANG_la},
      {"lv", LANG_lv},    {"nl", LANG_nl},
      {"pl", LANG_pl},    {"pt", LANG_pt},
      {"sv", LANG_sv},    {"tr", LANG_tr},
